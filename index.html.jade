@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+head
+  title="Skill Tapestry"
+  body
+  each affinity in affinities
+    h2=affinity.name
+    each skill in affinity.skills
+      h3=skill.name
+      each level in skill.levels
+        h4=level.description
+        each resource in level.resources
+          li
+            a(href=resource.url)=resource.title

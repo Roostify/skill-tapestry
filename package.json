@@ -1,0 +1,27 @@
+{
+  "name": "skill-tapestry",
+  "version": "0.1.0",
+  "description": "Build visual representation of target skillsets + how you line up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jade": "jade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zincmade/skill-tapestry.git"
+  },
+  "keywords": [
+    "learning",
+    "professional-development"
+  ],
+  "author": "Zee Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zincmade/skill-tapestry/issues"
+  },
+  "homepage": "https://github.com/zincmade/skill-tapestry#readme",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}

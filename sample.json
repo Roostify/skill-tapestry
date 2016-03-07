@@ -1,0 +1,19 @@
+{
+  "affinities": [
+    {
+      "name": "Programming",
+      "skills": [{
+        "name": "Debugging",
+        "levels": [{
+          "description": "You can find where your code is in an error message, have a basic understanding of OODA, using the scientific method, and triangulation.",
+          "resources": [
+            {
+              "title": "An introduction to OODA for debugging",
+              "url": "http://example.com/ooda"
+            }
+          ]
+        }]
+      }]
+    }
+  ]
+}
